@@ -44,7 +44,7 @@
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-jsdoc": "30.7.6",
     "eslint-plugin-prefer-arrow": "1.2.2",
-    "mochawesome": "^6.1.1",
+    "mochawesome": "^6.3.1",
     "mochawesome-merge": "^4.1.0",
     "ts-node": "~7.0.0",
     "tslint": "~6.1.0",
